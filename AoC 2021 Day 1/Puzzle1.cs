@@ -3,7 +3,7 @@
 var values = input.Split(' ').Select(text => int.Parse(text)).ToArray();
 
 int increases = 0;
-for (int i = 3; i < values.Length; i++)
+for (int i = 1; i < values.Length; i++)
 {
     if (values[i - 1] < values[i])
         increases++;
