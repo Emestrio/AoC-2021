@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC 2021 Day 1 Puzzle 1", "AoC 2021 Day 1\AoC 2021 Day 1 Puzzle 1.csproj", "{E48FB1DC-35C5-497F-A59E-1E7679DB918D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC 2021 Day 1 Puzzle 1", "AoC 2021 Day 1\AoC 2021 Day 1 Puzzle 1.csproj", "{E48FB1DC-35C5-497F-A59E-1E7679DB918D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc 2021 Day 1 Puzzle 2", "Aoc 2021 Day 1 Puzzle 2\Aoc 2021 Day 1 Puzzle 2.csproj", "{963E4B59-9103-4C89-90B0-14BB234FD82B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc 2021 Day 1 Puzzle 2", "Aoc 2021 Day 1 Puzzle 2\Aoc 2021 Day 1 Puzzle 2.csproj", "{963E4B59-9103-4C89-90B0-14BB234FD82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC 2021 Day 2 Puzzle 1", "AoC 2021 Day 2 Puzzle 1\AoC 2021 Day 2 Puzzle 1.csproj", "{5CA6138A-D30E-4BC9-A9E6-1FD741FD6A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC 2021 Day 2 Puzzle 2", "AoC 2021 Day 2 Puzzle 2\AoC 2021 Day 2 Puzzle 2.csproj", "{808F0ACA-50FF-474E-BEF4-027D085932F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{963E4B59-9103-4C89-90B0-14BB234FD82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{963E4B59-9103-4C89-90B0-14BB234FD82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{963E4B59-9103-4C89-90B0-14BB234FD82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA6138A-D30E-4BC9-A9E6-1FD741FD6A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA6138A-D30E-4BC9-A9E6-1FD741FD6A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA6138A-D30E-4BC9-A9E6-1FD741FD6A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA6138A-D30E-4BC9-A9E6-1FD741FD6A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808F0ACA-50FF-474E-BEF4-027D085932F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808F0ACA-50FF-474E-BEF4-027D085932F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808F0ACA-50FF-474E-BEF4-027D085932F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808F0ACA-50FF-474E-BEF4-027D085932F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
