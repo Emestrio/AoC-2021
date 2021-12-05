@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC 2021 Day 1 Puzzle 1", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aoc 2021 Day 1 Puzzle 2", "Aoc 2021 Day 1 Puzzle 2\Aoc 2021 Day 1 Puzzle 2.csproj", "{963E4B59-9103-4C89-90B0-14BB234FD82B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC 2021 Day 2 Puzzle 1", "AoC 2021 Day 2 Puzzle 1\AoC 2021 Day 2 Puzzle 1.csproj", "{5CA6138A-D30E-4BC9-A9E6-1FD741FD6A7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC 2021 Day 2 Puzzle 1", "AoC 2021 Day 2 Puzzle 1\AoC 2021 Day 2 Puzzle 1.csproj", "{5CA6138A-D30E-4BC9-A9E6-1FD741FD6A7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC 2021 Day 2 Puzzle 2", "AoC 2021 Day 2 Puzzle 2\AoC 2021 Day 2 Puzzle 2.csproj", "{808F0ACA-50FF-474E-BEF4-027D085932F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC 2021 Day 2 Puzzle 2", "AoC 2021 Day 2 Puzzle 2\AoC 2021 Day 2 Puzzle 2.csproj", "{808F0ACA-50FF-474E-BEF4-027D085932F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC 2021 Day 3 Puzzle 1", "AoC 2021 Day 3 Puzzle 1\AoC 2021 Day 3 Puzzle 1.csproj", "{44305A60-076E-46BE-971E-3087EEAFD809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aoc 2021 Day 3 Puzzle 2", "Aoc 2021 Day 3 Puzzle 2\Aoc 2021 Day 3 Puzzle 2.csproj", "{0D0A07C8-6AD4-4D95-97E6-43E66967F789}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{808F0ACA-50FF-474E-BEF4-027D085932F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808F0ACA-50FF-474E-BEF4-027D085932F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808F0ACA-50FF-474E-BEF4-027D085932F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44305A60-076E-46BE-971E-3087EEAFD809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44305A60-076E-46BE-971E-3087EEAFD809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44305A60-076E-46BE-971E-3087EEAFD809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44305A60-076E-46BE-971E-3087EEAFD809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0A07C8-6AD4-4D95-97E6-43E66967F789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0A07C8-6AD4-4D95-97E6-43E66967F789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0A07C8-6AD4-4D95-97E6-43E66967F789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0A07C8-6AD4-4D95-97E6-43E66967F789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
